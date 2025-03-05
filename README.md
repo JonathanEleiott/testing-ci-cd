@@ -71,6 +71,10 @@ Unhappy Path -> What the function returns if the parameters are incorrect
   - CI runs the automated tests
   - CI will report back the results
 
+## Continuous Delivery (CD)
+
+- Deplaying the code to production when a specific event happens (most times, when you merge into main)
+
 ## GitHub Actions
 
 - Workflow -> executes multiple jobs
