@@ -47,5 +47,5 @@ test('should output "invalid entry" if there is not a valid entry', () => {
 });
 
 test(`should work, I'm a bad dev`, () => {
-  expect(multiply(5, 4)).toBe(200);
+  expect(multiply(5, 4)).toBe(20);
 });
